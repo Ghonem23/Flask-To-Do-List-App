@@ -42,9 +42,9 @@ The app features secure user authentication with **JWT (JSON Web Tokens)** and p
 
 ## Screenshots
 
-![Flask-To-Do-List-App Screenshot](Flask-To-Do-List-App/static/images/1.jpg?raw=true)
-![Flask-To-Do-List-App Screenshot](Flask-To-Do-List-App/static/images/2.jpg)
-![Flask-To-Do-List-App Screenshot](Flask-To-Do-List-App/static/images/3.jpg)
+![Flask-To-Do-List-App Screenshot](https://github.com/Ghonem23/Flask-To-Do-List-App/blob/main/Flask-To-Do-List-App/static/images/1.jpg?raw=true)  
+![Flask-To-Do-List-App Screenshot](https://github.com/Ghonem23/Flask-To-Do-List-App/blob/main/Flask-To-Do-List-App/static/images/2.jpg?raw=true)  
+![Flask-To-Do-List-App Screenshot](https://github.com/Ghonem23/Flask-To-Do-List-App/blob/main/Flask-To-Do-List-App/static/images/3.jpg?raw=true)
 
 ---
 
