@@ -1,0 +1,34 @@
+{
+  "name": "flask-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "build": {
+    "appId": "com.taskmaster.desktop",
+    "productName": "Task Master",
+    "directories": {
+      "output": "build"
+    },
+    "files": [
+      "**/*",
+      "node_modules/**/*",
+      "flask-electron-app/**/*",
+      "app.py"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "path/to/icon.ico"
+    }
+  },  
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.0.2",
+    "electron-builder": "^25.0.5"
+  }
+}
