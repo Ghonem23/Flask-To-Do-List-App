@@ -1,6 +1,6 @@
 ## Flask-To-Do-List-App
 
-![Flask-To-Do-List-App Logo](Flask-To-Do-List-App/static/images/logo.jpg)  
+![Flask-To-Do-List-App Logo](./static/images/logo.jpg)  
 **A versatile to-do list application** built using **Flask**, **SQLAlchemy**, and **Electron**, offering both web and desktop functionality with JWT authentication and REST API support.
 
 ## Table of Contents
